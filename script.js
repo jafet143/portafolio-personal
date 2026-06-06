@@ -1,5 +1,5 @@
 const copyButton = document.querySelector("#copyEmail");
-const email = "tu-correo@ejemplo.com";
+const email = "jafet14306@gmail.com";
 
 if (copyButton) {
   copyButton.addEventListener("click", async () => {
